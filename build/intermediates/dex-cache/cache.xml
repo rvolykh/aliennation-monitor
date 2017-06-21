@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pikas\.android\build-cache\7b1c2e740b6738a57a8ea9a0a332b5d624bc7ce0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Android\projects\AliennationMonitor\app\build\intermediates\pre-dexed\debug\classes_389d1022e8dddc2d73ee012ffc9fe3c88f661ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pikas\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Android\projects\AliennationMonitor\app\build\intermediates\pre-dexed\debug\library-1.0.19_15918163507c9eea3da43d995c1e24178e90af62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pikas\.android\build-cache\de25306c0fe13bbbe6a4945643047eefdf9b68ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Android\projects\AliennationMonitor\app\build\intermediates\pre-dexed\debug\classes_209616972cd31e5d0870b1799805aed76893734e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pikas\.android\build-cache\5115ec496cd5f1c604f79c23e0ce73621659a893\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Android\projects\AliennationMonitor\app\build\intermediates\pre-dexed\debug\classes_764fc5564caf51d8e87851117ace5b8702c79b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pikas\.android\build-cache\5115ec496cd5f1c604f79c23e0ce73621659a893\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Android\projects\AliennationMonitor\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_c0a85c8da4ab58c03cb26f00de03c748f070e2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Android\projects\AliennationMonitor\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_6caa1fe4da30cf2cc1676a54cb9890359b7ae5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pikas\.android\build-cache\8455e3d8ccd6ced9008d8b8d13c85d3ce41a8cf3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Android\projects\AliennationMonitor\app\build\intermediates\pre-dexed\debug\classes_2787c91b7d3e884906c6013c281eda322ca044d1.jar" />
+    </item>
+
+</items>

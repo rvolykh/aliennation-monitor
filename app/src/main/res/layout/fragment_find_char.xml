@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:orientation="vertical"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    tools:context="mu.zz.pikaso.aliennationmonitor.FindCharFragment"
+    android:background="@drawable/middle">
+
+
+    <SearchView
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/searchCharView"
+        android:background="@drawable/search_border"
+        android:imeOptions="actionSearch"
+        android:iconifiedByDefault="false"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark" />
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/charsList"
+        android:layout_weight="1"
+        style="@style/Platform.ThemeOverlay.AppCompat.Dark" />
+
+
+</LinearLayout>
